@@ -14,8 +14,8 @@ questions = [
     Question("What color dresses do Chinese women traditionally wear on their wedding day?\n(a) Blue\n(b) Gold\n(c) White\n(d) Red", "d"),
     Question("What sport has been played on the moon?\n(a) Frisbee\n(b) Soccer\n(c) Golf.\n(d) Bocce ball", "c"),
     Question("Mycology is the scientific study of what?\n(a) Cancer cells\n(b) Flowers\n(c) Fungi.\n(d) Blood", "c"),
-    Question("What animal is the closest living relative of a human?\n(a) Gorillas\n(b) Monkeys\n(c) Bonobos.\n(d) Homo sapiens", "d"),
-    Question("The first vaccine was for which disease?\n(a) Chickenpox\n(b) Polio\n(c) Measles\n(d) Smallpox", "d")
+    Question("What animal is the closest living relative of a human?\n(a) Gorillas\n(b) Monkeys\n(c) Bonobos\n(d) Homo sapiens", "c"),
+    Question("The first vaccine was for which disease?\n(a) Chickenpox\n(b) Polio\n(c) Measles\n(d) Smallpox", "d"),
     Question("What is the largest planet in our solar system?\n(a) Jupiter\n(b) Saturn\n(c) Mars\n(d) Venus", "a"),
     Question("Who painted the Mona Lisa?\n(a) Vincent van Gogh\n(b) Leonardo da Vinci\n(c) Pablo Picasso\n(d) Michelangelo", "b"),
     Question("What is the capital city of Australia?\n(a) Sydney\n(b) Melbourne\n(c) Canberra\n(d) Perth", "c"),
